@@ -33,14 +33,14 @@ If you would like to contribute to the website, please send any organizer  an em
 
 | Week | Date   | Topic | Speaker                  | References | Notes |
 | ---- | -----  | ----  | ----                     | ----       | ----  |
-| 1    | 10/03  |       | Mark                     |            |        Meet \& Greet         |
-| 2    | 10/10  |       | Nathan                   |            |                              |
-| 3    | 10/17  |       | Andrew           		   |            |                              |
-| 4    | 10/24  |       | Phillip                  |            |                              |
-| 5    | 10/31  |       |          				   |            |                              |
+| 1    | 10/03  |       |                          |            |        Meet \& Greet         |
+| 2    | 10/10  | The Gaussian Free Field: Properties and Applications |Mark|                  |                              |
+| 3    | 10/17  | Iterative Ensemble Kalman Methods for Inverse Problems|Nathan|               |                              |
+| 4    | 10/24  |       | Andrew                   |            |                              |
+| 5    | 10/31  |       | Phillip            	   |            |                              |
 | 6    | 11/07  |       |      				       |            |                              |
-| 7    | 11/14  |       | Dan        		       |            |                              |
-| 8    | 11/21  |       |       		           |            |   Happy Thanksgiving!        |
+| 7    | 11/14  |       |         		           |            |                              |
+| 8    | 11/21  |       |   Dan    		           |            |   Happy Thanksgiving!        |
 | 9    | 11/28  |       |        		           |            |                              |
 | 10   | 12/05  |       |         			       |            |   Good luck with finals!     |
 
