@@ -23,8 +23,8 @@ If you would like to contribute to the website, please send any organizer  an em
 
 <div align="center">
   <h2>  Week 3  </h2>
-  <h1>   TBA </h1>
-  <strong> TBA  </strong>
+  <h1>   Iterative Ensemble Kalman Methods for Inverse Problems </h1>
+  <strong> Nathan Waniorek  </strong>
 </div>
 
 
@@ -49,8 +49,7 @@ If you would like to contribute to the website, please send any organizer  an em
 
 ## 📅 Past Maintained Talk Schedules 📅
 
-
-
+### 2021 - 2022 Organizers: Adela DePavia, Phillip Lo, Abby Poteshman
 ---------
 
 
