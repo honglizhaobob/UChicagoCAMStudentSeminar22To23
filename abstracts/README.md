@@ -2,4 +2,4 @@
 
 ## Central Repository for Seminar Abstracts
 
-Please use the naming convection `NameofSpeaker_DateofTalk`.
+Please use the naming convection `CAM_Seminar_Abstract_NameOfSpeaker.pdf`.
