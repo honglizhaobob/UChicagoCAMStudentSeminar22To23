@@ -51,7 +51,7 @@ If you would like to contribute to the website, please send any organizer  an em
 
 ## 📅 Past Maintained Talk Schedules 📅
 
-### 2021 - 2022 Organizers: Adela DePavia, Phillip Lo, Abby Poteshman
+#### 2021 - 2022 Organizers: Adela DePavia, Phillip Lo, Abby Poteshman
 ---------
 
 
