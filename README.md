@@ -24,10 +24,10 @@ If you would like to contribute to the website, please send any organizer  an em
 <div align="center">
   <h2>  Week 3  </h2>
   <h1>   Iterative Ensemble Kalman Methods for Inverse Problems </h1>
-  <h2> [Click here to read the abstract]((https://github.com/honglizhaobob/UChicagoCAMStudentSeminar22To23/tree/main/CAM_Seminar_Abstract_Nathan.pdf)
-) </h2>
   <strong> Nathan Waniorek  </strong>
 </div>
+
+📌 [**Click to view the abstract**](./abstracts/CAM_Seminar_Abstract_Nathan.pdf)
 
 
 ## 📅 Schedule (2022 Autumn)
