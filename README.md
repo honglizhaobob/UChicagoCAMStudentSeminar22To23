@@ -31,20 +31,19 @@ If you would like to contribute to the website, please send any organizer  an em
 ## 📅 Schedule (2022 Autumn)
 <div align="center">
 
-| Week | Date   | Topic                                                          | Speaker                    | References | Notes           |
-| ---- | ------ | ------------------------------------------------------------   | -------------------------- | ---------- | --------------- |
-| 1    | 09/28  |                                 							                 |                            |            |                 |
-| 2    | 10/05  |                                 							                 |                            |            |                 |
-| 3    | 10/12  |                                 							                 |                            |            |                 |
-| 4    | 10/19  |                                 							                 |                            |            |                 |
-| 5    | 10/26  |                                 							                 |                            |            |                 |
-| 6    | 11/02  |                                 							                 |                            |            |                 |
-| 7    | 11/09  |                                 							                 |                            |            |                 |
-| 8    | 11/16  |                                 							                 |                            |            |                 |
-| 9    | 11/23  |                                 							                 |                            |            | Thanksgiving    |
-| 10   | 11/30  |                                 							                 |                            |            |                 |
-| 11   | 12/07  |                                 							                 |                            |            |   Finals Week   |
-  
+| Week | Date   | Topic | Speaker                  | References | Notes |
+| ---- | -----  | ----  | ----                     | ----       | ----  |
+| 1    | 10/03  |       | Mark                     |            |        Meet \& Greet         |
+| 2    | 10/10  |       | Nathan                   |            |                              |
+| 3    | 10/17  |       | Andrew           		   |            |                              |
+| 4    | 10/24  |       | Phillip                  |            |                              |
+| 5    | 10/31  |       |          				   |            |                              |
+| 6    | 11/07  |       |      				       |            |                              |
+| 7    | 11/14  |       | Dan        		       |            |                              |
+| 8    | 11/21  |       |       		           |            |   Happy Thanksgiving!        |
+| 9    | 11/28  |       |        		           |            |                              |
+| 10   | 12/05  |       |         			       |            |   Good luck with finals!     |
+
   
 </div>
 
