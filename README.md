@@ -40,7 +40,7 @@ If you would like to contribute to the website, please send any organizer  an em
 | 3    | 10/17  | Iterative Ensemble Kalman Methods for Inverse Problems|Nathan|               |                              |
 | 4    | 10/24  |       | Andrew                   |            |                              |
 | 5    | 10/31  |       | Phillip            	   |            |                              |
-| 6    | 11/07  |       |      				       |            |                              |
+| 6    | 11/07  |       | Ziang     				       |            |                              |
 | 7    | 11/14  |       |         		           |            |                              |
 | 8    | 11/21  |       |   Dan    		           |            |   Happy Thanksgiving!        |
 | 9    | 11/28  |       |        		           |            |                              |
