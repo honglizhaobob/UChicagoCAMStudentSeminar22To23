@@ -6,25 +6,26 @@ https://cam.uchicago.edu/events/student-seminar/
 - **Date:** Monday, 12:00 PM -- 1:00 PM (CST)
 - **Location:** Jones 303  
   
-If you would like to contribute to the website, please send any organizer  an email to request edit access to this git repository. And to obtain a copy of the source codes please run:
+If you would like to contribute to the website, please send any organizer  an email to request edit access to this git repository. To obtain a copy of the source codes please run:
 
              `git clone https://github.com/honglizhaobob/UChicagoCAMStudentSeminar22To23.git`
 
 
-📌 [**Book to Give a Talk for Next Week**](https://calendly.com/camseminar/30min)
+📌 [**Book to Give a Talk**](https://calendly.com/camseminar/30min)
 
 #### Guidance for Presenters
 
-- If possible, please update the git repo with the title of your talk along with any useful references, three days prior to the meeting, or contact any of the organizers to do so!
+- Please contact any of the organizers to upload your presentation, or any useful resources related to the talk if you wish to do so.
 
-- Please follow the Calendly link above to book a talk, and remember to email the completed abstract template to any of the organizers.
+- Please follow the Calendly link above to book a talk, and remember to email the title and abstract to the organizers one week before your talk!
 
 --------------
 
 <div align="center">
-  <h2>  Week 3  </h2>
-  <h1>   Iterative Ensemble Kalman Methods for Inverse Problems </h1>
-  <strong> Nathan Waniorek  </strong>
+  <h2>  Week 4  </h2>
+  <h1>   TBD </h1>
+  <strong> Andrew Dennehy
+  </strong>
 </div>
 
 📌 [**Click to view the abstract**](./abstracts/CAM_Seminar_Abstract_Nathan.pdf)
@@ -69,7 +70,7 @@ If you would like to contribute to the website, please send any organizer  an em
 
 
 ----------
-## 🔬 Reference Materials 🔬 (By Topic)
+## 🔬 References 🔬 
 
 
 
