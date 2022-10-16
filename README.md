@@ -39,12 +39,12 @@ If you would like to contribute to the website, please send any organizer  an em
 | 2    | 10/10  | The Gaussian Free Field: Properties and Applications |Mark|                  |                              |
 | 3    | 10/17  | Iterative Ensemble Kalman Methods for Inverse Problems|Nathan|               |                              |
 | 4    | 10/24  |       | Andrew                   |            |                              |
-| 5    | 10/31  |       | Phillip            	   |            |                              |
+| 5    | 10/31  |       | Phillip             	   |            |                              |
 | 6    | 11/07  |       | Ziang     				       |            |                              |
-| 7    | 11/14  |       |         		           |            |                              |
-| 8    | 11/21  |       |   Dan    		           |            |   Happy Thanksgiving!        |
-| 9    | 11/28  |       |        		           |            |                              |
-| 10   | 12/05  |       |         			       |            |   Good luck with finals!     |
+| 7    | 11/14  |       | Dan        		           |            |                              |
+| 8    | 11/21  |       |       		               |            |   Thanksgiving Break         |
+| 9    | 11/28  |       | Angela       		         |            |                              |
+| 10   | 12/05  |       |         			           |            |   Reading Week               |
 
   
 </div>
