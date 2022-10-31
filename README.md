@@ -2,7 +2,7 @@
 
 https://cam.uchicago.edu/events/student-seminar/
 
-- **Organizers**: Zhao Lyu (zlyu@uchicago.edu), Angela Wang (aawang@uchicago.edu), Hongli Zhao (honglizhaobob@uchicago.edu)
+- **Organizers**: Zhao Lyu (zlyu@uchicago.edu), Angela Wang (anyuwang@uchicago.edu), Hongli Zhao (honglizhaobob@uchicago.edu)
 - **Date:** Monday, 12:00 PM -- 1:00 PM (CST)
 - **Location:** Jones 303  
   
@@ -22,13 +22,13 @@ If you would like to contribute to the website, please send any organizer  an em
 --------------
 
 <div align="center">
-  <h2>  Week 6  </h2>
+  <h2>  Week 7  </h2>
   <h1>  Vector-wise Joint Diagonalization of Almost Communiting Matrices </h1>
   <strong> Ziang Yu
   </strong>
 </div>
 
-📌 [**Click to view the abstract**](./abstracts/CAM_Seminar_Abstract_Phillip.pdf)
+📌 [**Click to view the abstract**](./abstracts/CAM_Seminar_Abstract_Ziang.pdf)
 
 
 ## 📅 Schedule (2022 Autumn)
