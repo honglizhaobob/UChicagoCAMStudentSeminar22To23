@@ -22,9 +22,9 @@ If you would like to contribute to the website, please send any organizer  an em
 --------------
 
 <div align="center">
-  <h2>  Week 5  </h2>
-  <h1>   Learning Coronal Nonlinear Force-Free MagneticFields through Differentiable Rendering </h1>
-  <strong> Phillip Lo
+  <h2>  Week 6  </h2>
+  <h1>  Vector-wise Joint Diagonalization of Almost Communiting Matrices </h1>
+  <strong> Ziang Yu
   </strong>
 </div>
 
@@ -41,7 +41,7 @@ If you would like to contribute to the website, please send any organizer  an em
 | 3    | 10/17  | Iterative Ensemble Kalman Methods for Inverse Problems|Nathan|               |                              |
 | 4    | 10/24  |   LINSCAN - A Linearity-Based Clustering Algorithm       |Andrew                |            |                              |
 | 5    | 10/31  |   Learning Coronal Nonlinear Force-Free Magnetic Fields through Differentiable Rendering    | Phillip             	   |            |                              |
-| 6    | 11/07  |       | Ziang     				       |            |                              |
+| 6    | 11/07  |   Vector-wise Joint Diagonalization of Almost Communiting Matrices    | Ziang     				       |            |                              |
 | 7    | 11/14  |       | Dan        		           |            |                              |
 | 8    | 11/21  |       |       		               |            |   Thanksgiving Break         |
 | 9    | 11/28  |       | Angela       		         |            |                              |
