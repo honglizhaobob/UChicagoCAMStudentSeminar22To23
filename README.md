@@ -44,7 +44,7 @@ If you would like to contribute to the website, please send any organizer  an em
 | 6    | 11/07  |   Vector-wise Joint Diagonalization of Almost Communiting Matrices    | Ziang     				       |            |                              |
 | 7    | 11/14  |       | Dan        		           |            |                              |
 | 8    | 11/21  |       |       		               |            |   Thanksgiving Break         |
-| 9    | 11/28  |       | Angela       		         |            |                              |
+| 9    | 11/28  |       | Zhen Dai       		         |            |                              |
 | 10   | 12/05  |       |         			           |            |   Reading Week               |
 
   
