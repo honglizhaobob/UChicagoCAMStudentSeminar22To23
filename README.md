@@ -1,4 +1,4 @@
-# 2022 -- 2023 Computational and Applied Mathematics Student Seminar (🍂 Autumn 2022 🌰)
+# 2022 -- 2023 Computational and Applied Mathematics joint with Statistics Student Seminar (🍂 Autumn 2022 🌰)
 
 https://cam.uchicago.edu/events/student-seminar/
 
