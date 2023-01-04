@@ -1,12 +1,12 @@
-# 2022 -- 2023 Computational and Applied Mathematics joint with Statistics Student Seminar (🍂 Autumn 2022 🌰)
+# 2023 Computational and Applied Mathematics joint with Statistics Student Seminar (❄️ Winter 2023 ⛄️)
 
 https://cam.uchicago.edu/events/student-seminar/
 
 - **Organizers**: Zhao Lyu (zlyu@uchicago.edu), Angela Wang (anyuwang@uchicago.edu), Hongli Zhao (honglizhaobob@uchicago.edu)
-- **Date:** Monday, 12:00 PM -- 1:00 PM (CST)
+- **Date:** Tuesday, 12:30 PM -- 1:30 PM (CST)
 - **Location:** Jones 303  
   
-If you would like to contribute to the website, please send any organizer  an email to request edit access to this git repository. To obtain a copy of the source codes please run:
+If you would like to contribute to the website, please send any organizer an email to request edit access to this git repository. To obtain a copy of the source codes please run:
 
              `git clone https://github.com/honglizhaobob/UChicagoCAMStudentSeminar22To23.git`
 
