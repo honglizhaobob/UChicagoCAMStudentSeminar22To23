@@ -31,7 +31,7 @@ If you would like to contribute to the website, please send any organizer an ema
 📌 [**Click to view the abstract**](./abstracts/CAM_Seminar_Abstract_Solomon.pdf)
 
 
-## 📅 Schedule (2022 Autumn)
+## 📅 Schedule (2023 Winter)
 <div align="center">
 
 | Week | Date   | Topic | Speaker                  | References | Notes |
