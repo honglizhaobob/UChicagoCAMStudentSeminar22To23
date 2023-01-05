@@ -22,13 +22,13 @@ If you would like to contribute to the website, please send any organizer an ema
 --------------
 
 <div align="center">
-  <h2>  Week 7  </h2>
-  <h1>  Vector-wise Joint Diagonalization of Almost Communiting Matrices </h1>
-  <strong> Ziang Yu
+  <h2>  Week 2  </h2>
+  <h1>  A Boundary Integral Method for the Klein-Gordon Equation with Interface Waves </h1>
+  <strong> Solomon Quinn
   </strong>
 </div>
 
-📌 [**Click to view the abstract**](./abstracts/CAM_Seminar_Abstract_Ziang.pdf)
+[comment]: 📌 [**Click to view the abstract**](./abstracts/CAM_Seminar_Abstract_Ziang.pdf)
 
 
 ## 📅 Schedule (2022 Autumn)
@@ -36,16 +36,16 @@ If you would like to contribute to the website, please send any organizer an ema
 
 | Week | Date   | Topic | Speaker                  | References | Notes |
 | ---- | -----  | ----  | ----                     | ----       | ----  |
-| 1    | 10/03  |       |                          |            |        Meet \& Greet         |
-| 2    | 10/10  | The Gaussian Free Field: Properties and Applications |Mark|                  |                              |
-| 3    | 10/17  | Iterative Ensemble Kalman Methods for Inverse Problems|Nathan|               |                              |
-| 4    | 10/24  |   LINSCAN - A Linearity-Based Clustering Algorithm       |Andrew                |            |                              |
-| 5    | 10/31  |   Learning Coronal Nonlinear Force-Free Magnetic Fields through Differentiable Rendering    | Phillip             	   |            |                              |
-| 6    | 11/07  |   Vector-wise Joint Diagonalization of Almost Communiting Matrices    | Ziang     				       |            |                              |
-| 7    | 11/14  |       | Dan        		           |            |                              |
-| 8    | 11/21  |       |       		               |            |   Thanksgiving Break         |
-| 9    | 11/28  |       | Zhen Dai       		         |            |                              |
-| 10   | 12/05  |       |         			           |            |   Reading Week               |
+| 1    | 01/03  |A Boundary Integral Method for the Klein-Gordon Equation with Interface Waves|Solomon Quinn| | |
+| 2    | 01/10  | | | | |
+| 3    | 01/17  | | | | |
+| 4    | 01/24  | | | | |
+| 5    | 01/31  | | | | |
+| 6    | 02/07  | | | | |
+| 7    | 02/14  | | | | |
+| 8    | 02/21  | | | | |
+| 9    | 02/28  | | | | |
+| 10   | 03/07  | | | |Reading Week|
 
   
 </div>
