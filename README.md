@@ -28,7 +28,7 @@ If you would like to contribute to the website, please send any organizer an ema
   </strong>
 </div>
 
-[comment]: 📌 [**Click to view the abstract**](./abstracts/CAM_Seminar_Abstract_Ziang.pdf)
+📌 [**Click to view the abstract**](./abstracts/CAM_Seminar_Abstract_Solomon.pdf)
 
 
 ## 📅 Schedule (2022 Autumn)
@@ -42,8 +42,8 @@ If you would like to contribute to the website, please send any organizer an ema
 | 4    | 01/24  | | | | |
 | 5    | 01/31  | | | | |
 | 6    | 02/07  | | | | |
-| 7    | 02/14  | | | | |
-| 8    | 02/21  | | | | |
+| 7    | 02/14  | |Angela Wang| | |
+| 8    | 02/21  | |Peter Nekrasov| | |
 | 9    | 02/28  | | | | |
 | 10   | 03/07  | | | |Reading Week|
 
