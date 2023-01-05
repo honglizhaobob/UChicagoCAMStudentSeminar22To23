@@ -36,8 +36,8 @@ If you would like to contribute to the website, please send any organizer an ema
 
 | Week | Date   | Topic | Speaker                  | References | Notes |
 | ---- | -----  | ----  | ----                     | ----       | ----  |
-| 1    | 01/03  |A Boundary Integral Method for the Klein-Gordon Equation with Interface Waves|Solomon Quinn| | |
-| 2    | 01/10  | | | | |
+| 1    | 01/03  | | | |New Year's Day|
+| 2    | 01/10  |A Boundary Integral Method for the Klein-Gordon Equation with Interface Waves|Solomon Quinn| | |
 | 3    | 01/17  | | | | |
 | 4    | 01/24  | | | | |
 | 5    | 01/31  | | | | |
