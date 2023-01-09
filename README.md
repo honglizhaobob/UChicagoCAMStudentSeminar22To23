@@ -41,10 +41,10 @@ If you would like to contribute to the website, please send any organizer an ema
 | 3    | 01/17  | | | | |
 | 4    | 01/24  | | | | |
 | 5    | 01/31  | | | | |
-| 6    | 02/07  | | | | |
+| 6    | 02/07  | |Abby Poteshman | | |
 | 7    | 02/14  | |Angela Wang| | |
 | 8    | 02/21  | |Peter Nekrasov| | |
-| 9    | 02/28  | | | | |
+| 9    | 02/28  | |Dongyue Xie | | |
 | 10   | 03/07  | | | |Reading Week|
 
   
