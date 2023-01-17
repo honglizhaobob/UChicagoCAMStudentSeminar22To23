@@ -22,9 +22,9 @@ If you would like to contribute to the website, please send any organizer an ema
 --------------
 
 <div align="center">
-  <h2>  Week 2  </h2>
-  <h1>  A Boundary Integral Method for the Klein-Gordon Equation with Interface Waves </h1>
-  <strong> Solomon Quinn
+  <h2>  Week 4  </h2>
+  <h1>  Two-Dimensional Time-Reversal-Invariant Topological Insulators via Fredholm Theory </h1>
+  <strong> Angela Wang
   </strong>
 </div>
 
