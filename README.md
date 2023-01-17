@@ -40,7 +40,7 @@ If you would like to contribute to the website, please send any organizer an ema
 | 2    | 01/10  | A Boundary Integral Method for the Klein-Gordon Equation with Interface Waves | Solomon Quinn | | |
 | 3    | 01/17  | Crouzeix's Conjecture and the Cauchy Integral Transform | Andrew Dennehy | | |
 | 4    | 01/24  | Two-Dimensional Time-Reversal-Invariant Topological Insulators via Fredholm Theory | Angela Wang | | |
-| 5    | 01/31  | | | | |
+| 5    | 01/31  | | Solomon Quinn | | |
 | 6    | 02/07  | |Abby Poteshman | | |
 | 7    | 02/14  | | | | |
 | 8    | 02/21  | |Peter Nekrasov| | |
