@@ -40,10 +40,10 @@ If you would like to contribute to the website, please send any organizer an ema
 | 2    | 01/10  | A Boundary Integral Method for the Klein-Gordon Equation with Interface Waves | Solomon Quinn | | |
 | 3    | 01/17  | Crouzeix's Conjecture and the Cauchy Integral Transform | Andrew Dennehy | | |
 | 4    | 01/24  | CAM & Stats Wikithon |  | | |
-| 5    | 01/31  |  | Sounak Paul | | |
-| 6    | 02/07  | |Abby Poteshman | | |
-| 7    | 02/14  | | Sue Parkinson | | |
-| 8    | 02/21  | |Erasmo Tani| | |
+| 5    | 01/31  |  Amortized Method of Moments for Multireference Alignment and Cryo-EM | Sounak Paul | | |
+| 6    | 02/07  | Comparing ab initio methods to calculate polarization for high-throughput ferroelectric screening |Abby Poteshman | | |
+| 7    | 02/14  | Finding Low-Rank Functions Using Linear Layers in Neural Networks | Sue Parkinson | | |
+| 8    | 02/21  | Active Learning of Partitions via Same-Cluster Oracle |Erasmo Tani| | |
 | 9    | 02/28  | |Jake Soloff | | |
 | 10   | 03/07  | | | |Reading Week|
 
