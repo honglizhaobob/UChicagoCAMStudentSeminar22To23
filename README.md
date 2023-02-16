@@ -22,9 +22,9 @@ If you would like to contribute to the website, please send any organizer an ema
 --------------
 
 <div align="center">
-  <h2>  Week 5  </h2>
+  <h2>  Week 8  </h2>
   <h1>   </h1>
-  <strong> Sounak Paul
+  <strong> Erasmo Tani
   </strong>
 </div>
 
@@ -43,7 +43,7 @@ If you would like to contribute to the website, please send any organizer an ema
 | 5    | 01/31  |  | Sounak Paul | | |
 | 6    | 02/07  | |Abby Poteshman | | |
 | 7    | 02/14  | | Sue Parkinson | | |
-| 8    | 02/21  | |Peter Nekrasov| | |
+| 8    | 02/21  | |Erasmo Tani| | |
 | 9    | 02/28  | |Jake Soloff | | |
 | 10   | 03/07  | | | |Reading Week|
 
