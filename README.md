@@ -31,8 +31,28 @@ If you would like to contribute to the website, please send any organizer an ema
 📌 [**Click to view the abstract**](./abstracts/CAM_Seminar_Abstract_Solomon.pdf)
 
 
-## 📅 Schedule (2023 Winter)
+## 📅 Schedule (2023 Spring)
 <div align="center">
+
+| Week | Date   | Topic | Speaker                  | References | Notes |
+| ---- | -----  | ----  | ----                     | ----       | ----  |
+| 1    | 03/20  | | Jordan Kemp | | |
+| 2    | 03/27  | | Peter Nekrasov | | |
+| 3    | 04/03  | | | | |
+| 4    | 04/10  | | | | |
+| 5    | 04/17  | | | | |
+| 6    | 04/24  | | | | |
+| 7    | 05/01  | | | | |
+| 8    | 05/08  | | | | |
+| 9    | 05/15  | | | | |
+| 10   | 05/22  | | | |Reading Week|
+
+  
+</div>
+
+## 📅 Past Maintained Talk Schedules 📅
+
+#### 2023 Winter
 
 | Week | Date   | Topic | Speaker                  | References | Notes |
 | ---- | -----  | ----  | ----                     | ----       | ----  |
@@ -46,11 +66,6 @@ If you would like to contribute to the website, please send any organizer an ema
 | 8    | 02/21  | Active Learning of Partitions via Same-Cluster Oracle |Erasmo Tani| | |
 | 9    | 02/28  | |Jake Soloff | | |
 | 10   | 03/07  | | | |Reading Week|
-
-  
-</div>
-
-## 📅 Past Maintained Talk Schedules 📅
 
 #### 2021 - 2022 Organizers: Adela DePavia, Phillip Lo, Abby Poteshman
 ---------
