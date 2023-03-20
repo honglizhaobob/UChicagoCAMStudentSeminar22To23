@@ -36,14 +36,14 @@ If you would like to contribute to the website, please send any organizer an ema
 
 | Week | Date   | Topic | Speaker                  | References | Notes |
 | ---- | -----  | ----  | ----                     | ----       | ----  |
-| 1    | 03/20  | | Jordan Kemp | | |
+| 1    | 03/20  | Bayesian Origins of Growth, Cooperation, and Inequality in populations of learning agents | Jordan Kemp | | |
 | 2    | 03/27  | | Peter Nekrasov | | |
-| 3    | 04/03  | | | | |
-| 4    | 04/10  | | | | |
+| 3    | 04/03  | | Allen Poteshman| | |
+| 4    | 04/10  | | Angela Wang | | |
 | 5    | 04/17  | | | | |
 | 6    | 04/24  | | | | |
 | 7    | 05/01  | | | | |
-| 8    | 05/08  | | | | |
+| 8    | 05/08  | | Melissa Adrian | | |
 | 9    | 05/15  | | | | |
 | 10   | 05/22  | | | |Reading Week|
 
