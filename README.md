@@ -39,12 +39,12 @@ If you would like to contribute to the website, please send any organizer an ema
 | 1    | 03/20  | Bayesian Origins of Growth, Cooperation, and Inequality in populations of learning agents | Jordan Kemp | | |
 | 2    | 03/27  | | Peter Nekrasov | | |
 | 3    | 04/03  | | Allen Poteshman| | |
-| 4    | 04/10  | | Angela Wang | | |
-| 5    | 04/17  | | | | |
-| 6    | 04/24  | | | | |
-| 7    | 05/01  | | | | |
+| 4    | 04/10  | | Zhao Lyu | | |
+| 5    | 04/17  | | Philip Lo | | |
+| 6    | 04/24  | | Angela Wang | | |
+| 7    | 05/01  | | Nathan Waniorek | | |
 | 8    | 05/08  | | Melissa Adrian | | |
-| 9    | 05/15  | | | | |
+| 9    | 05/15  | | Mark Olson | | |
 | 10   | 05/22  | | | |Reading Week|
 
   
