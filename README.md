@@ -40,9 +40,9 @@ If you would like to contribute to the website, please send any organizer an ema
 | 2    | 03/27  | | Peter Nekrasov | | |
 | 3    | 04/03  | | Allen Poteshman| | |
 | 4    | 04/10  | | Zhao Lyu | | |
-| 5    | 04/17  | | Philip Lo | | |
-| 6    | 04/24  | | Angela Wang | | |
-| 7    | 05/01  | | Nathan Waniorek | | |
+| 5    | 04/17  | | Nathan Waniorek | | |
+| 6    | 04/24  | | Philip Lo | | |
+| 7    | 05/01  | | Angela Wang | | |
 | 8    | 05/08  | | Melissa Adrian | | |
 | 9    | 05/15  | | Mark Olson | | |
 | 10   | 05/22  | | | |Reading Week|
